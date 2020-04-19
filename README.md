@@ -14,4 +14,4 @@ The BlackjackApp plays a simulation of the game blackjack. The player and dealer
 I implemented a hashmap to create a unique key for each card and later created it in the deck. Learning how to use enums, maps, and connecting the abstract class within the whole program was challenging. Further, having to debug but retracing my steps and figuring out where the logic was going wrong, it helped me to read my code and make corrections so the outcome can be logically correct.
 
 ## Video Explanation
-Coming Soon
+https://youtu.be/2aSLxTh-CAk
